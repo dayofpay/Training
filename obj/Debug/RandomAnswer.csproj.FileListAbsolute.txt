@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\bin\Debug\RandomAnswer.exe.config
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\bin\Debug\RandomAnswer.exe
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\bin\Debug\RandomAnswer.pdb
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\obj\Debug\RandomAnswer.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\obj\Debug\RandomAnswer.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\obj\Debug\RandomAnswer.exe
+C:\Users\dayofpay\source\repos\RandomAnswer\RandomAnswer\obj\Debug\RandomAnswer.pdb
